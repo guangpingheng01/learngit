@@ -9,3 +9,4 @@ this is in branch deva?
 this is in branch deva?
 >>>>>>> devb
 ...another deva.
+--no-ff test in branch master.
